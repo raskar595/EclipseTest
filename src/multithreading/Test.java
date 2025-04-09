@@ -12,6 +12,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println(num);
+		System.out.println("Welcome");
 
 	}
 
